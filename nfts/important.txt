@@ -1,0 +1,9 @@
+Make sure you have/create these folders inside nfts
+    image - stores the random generated image
+    metadata - stores the metadata of the image
+
+Make sure you create a file
+    tracker.json - keeps track of all the generated images and metadata
+
+Then inside tracker.json make sure you leave an empty object. Do not leave file empty!
+    {}
